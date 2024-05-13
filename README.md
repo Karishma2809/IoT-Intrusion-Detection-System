@@ -14,8 +14,8 @@ Machine Learning Models: Implementation of several machine learning models to pr
 Model Evaluation: Detailed evaluation of model performances with accuracy metrics and confusion matrices.
 
 ### Models
-Baseline Model: K-Means Clustering
-Advanced Model: Logistic Regression
+Model: K-means Clustering, Logistic Regression, KNN, Support Vector Machines, Naive Bayes, and LDA
+
 
 ### Results
 The Logistic Regression model achieved an accuracy of 94.09% on our test set, demonstrating its efficacy in classifying network traffic.
