@@ -1,4 +1,6 @@
 # IoT Intrusion Detection System (IDS)
+![image](https://github.com/user-attachments/assets/492ee64d-e7cd-441c-ba71-f2d5c45b49b6)
+
 This repository contains the project files for the "Developing an Intrusion Detection System for IoT Networks," a comprehensive approach to enhancing cybersecurity measures in the realm of Internet of Things (IoT). Our project utilizes advanced machine learning techniques to detect and mitigate sophisticated network attacks, ensuring the integrity and reliability of IoT infrastructures.
 
 ### Project Overview
